@@ -1,0 +1,19 @@
+{
+  "name": "star-ratings",
+  "dependencies": {
+    "polymer": "Polymer/polymer#>=1.0.0",
+    "iron-icon": "PolymerElements/iron-icon",
+    "iron-a11y-keys": "PolymerElements/iron-a11y-keys"
+  },
+  "homepage": "https://github.com/toddradigan/star-ratings",
+  "_release": "2c48e1b6de",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "2c48e1b6de422e8f2cc1b210f484ec7f01a16300"
+  },
+  "_source": "git://github.com/toddradigan/star-ratings.git",
+  "_target": "*",
+  "_originalSource": "toddradigan/star-ratings",
+  "_direct": true
+}
